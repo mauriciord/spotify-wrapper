@@ -1,6 +1,8 @@
 {
     "extends": "airbnb-base",
     "plugins": [
-        "import"
+        "import",
+        "react",
+        "jsx-a11y"
     ]
 }
